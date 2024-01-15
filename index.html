@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Tiny Elvis</title>
+        <style>
+            body {
+                color: white;
+                background: black;
+                display: grid;
+                width: 100vw;
+                height: 100vh;
+                margin: 0;
+                overflow: hidden;
+                align-content: center;
+                justify-items: center;
+                font-family: monospace;
+            }
+            a {
+                color: #9eb3ff;
+            }
+            #elvis-button {
+                border: none;
+                background: none;
+                padding: 2em;
+            }
+            #elvis-button:hover {
+                background: hsla(0,0%,100%,0.1);
+            }
+            #subtitle {
+                height: 1em;
+            }
+
+            #about {
+                position: fixed;
+                bottom: 0;
+            }
+        </style>
+        <link rel="icon" href="pngs/1.png">
+        <link rel="prefetch" href="pngs/1.png">
+        <link rel="prefetch" href="pngs/2.png">
+        <link rel="prefetch" href="pngs/R01.png">
+        <link rel="prefetch" href="pngs/R02.png">
+        <link rel="prefetch" href="pngs/R03.png">
+        <link rel="prefetch" href="pngs/R04.png">
+        <link rel="prefetch" href="pngs/R05.png">
+        <link rel="prefetch" href="pngs/R06.png">
+        <link rel="prefetch" href="pngs/R07.png">
+        <link rel="prefetch" href="pngs/R08.png">
+        <link rel="prefetch" href="pngs/G01.png">
+        <link rel="prefetch" href="pngs/G02.png">
+        <link rel="prefetch" href="pngs/G03.png">
+        <link rel="prefetch" href="pngs/G04.png">
+        <link rel="prefetch" href="pngs/G05.png">
+        <link rel="prefetch" href="pngs/G06.png">
+        <link rel="prefetch" href="pngs/G07.png">
+        <link rel="prefetch" href="pngs/G08.png">
+        <link rel="prefetch" href="pngs/P01.png">
+        <link rel="prefetch" href="pngs/P02.png">
+        <link rel="prefetch" href="pngs/P03.png">
+        <link rel="prefetch" href="pngs/P04.png">
+        <link rel="prefetch" href="pngs/P05.png">
+        <link rel="prefetch" href="pngs/P06.png">
+        <link rel="prefetch" href="pngs/P07.png">
+        <link rel="prefetch" href="pngs/P08.png">
+        <script src="tinyelvis.js" defer></script>
+    </head>
+    <body>
+        <button id="elvis-button"><img id="elvis" src="pngs/1.png"></button>
+        <p id="subtitle">Please click on Tiny Elvis</p>
+        <audio id="speech" src="mp3s/TWAV_A1.mp3"></audio>
+
+        <a id="about" href="about.html">About Tiny Elvis</a>
+    </body>
+</html>

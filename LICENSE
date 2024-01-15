@@ -1,0 +1,61 @@
+The original Tiny Elvis files were distributed with the following licence:
+
+    This program (Tiny Elvis for Windows) is hereby contributed "as
+    is" to the public domain.  The program, including its companion
+    waveform audio and documentation files, is distributed as
+    freeware.  As such, it is not intended for sale, resale, purchase,
+    or for-profit distribution in the shareware or retail marketplace.
+
+    Users are free to install and run the program on any system or
+    systems they wish (subject only to the program's hardware
+    requirements).  Users are also free to copy and re-distribute
+    the original files in any manner of via any channel available to
+    them (i.e., network, BBS, electronic information service, etc.).
+
+    Users doing so must distribute only the original files
+    (preferably in their original compressed format).  When so
+    distributed, it is the distributor's responsibility to ensure
+    that the program files have been kept in their original state
+    and format, and have not been altered, edited, disassembled, or
+    recompiled in any way.
+
+    That said, please do not disassemble the original executable or
+    edit any of its embedded resources (well, okay, on second thought
+    -- if you're really in DIRE need of a few Elvis icons, go ahead
+    and extract a few, just leave everything else alone).
+
+    Before release, this software was tested on a variety of
+    hardware configurations, under the most rigorous test conditions
+    possible.  The author therefore warrants that the software will
+    perform in substantial compliance with the specifications set
+    forth in this text, provided that the software is used only on
+    the computer hardware and operating system(s) for which it was
+    designed.
+
+    The author makes no other warranties, expressed or implied, with
+    respect to this software, including its quality or fitness for a
+    particular purpose.
+     
+    In no event will the author, or Pegasus Development, be liable
+    for any direct, indirect, special, incidental, or consequential
+    damages arising from the use of or the inability to use this
+    software, even if the author has been advised of the possibility
+    of such damages.
+     
+    Neither the author nor Pegasus Development is responsible for
+    any costs including, but not limited to, those incurred as a
+    result of lost profits or revenues, loss of time or use of the
+    software, loss of data, the cost of recovering software or data,
+    the cost of substitute software, claims by third parties, or
+    similar costs.
+
+
+All of the files from the original Tiny Elvis are in the `tel150` directory.
+
+The other files were all created by Christian Lawson-Perfect in 2024 and are
+distributed under the terms of the CC0 1.0 "no rights reserved" licence. You
+can see the full text of the licence at
+    http://creativecommons.org/publicdomain/zero/1.0.
+
+You can find Christian Lawson-Perfect at https://somethingorotherwhatever.com
+or email christian@lawson-perfect.uk.
